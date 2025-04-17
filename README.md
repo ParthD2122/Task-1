@@ -1,4 +1,4 @@
-# CODTECH Task-1
+# CODTECH-Task-1
 NAME : PARTH DHUMAL DOMAIN : DATA ANALYTICS ID :CT08OMX COMPANY : CODETECH IT SOLUTIONS DURATION : 25 JAN TO 25 FEB 2025
 
 OVERVIEW OF THE PROJECT
@@ -14,3 +14,8 @@ EDA Analysis: Visualizations of distributions, correlations, and relationships b
 TECHNLOGY USED :
 
 Technologies Used: Python - Programming language. Libraries: NumPy - Numerical operations. Pandas - Data manipulation and analysis. Matplotlib and Seaborn - Data visualization. Scikit-learn - Machine learning tools (data splitting, modeling, and evaluation).
+![image](https://github.com/user-attachments/assets/15d24092-081a-43b7-8851-fcc7ea1ed294)
+![image](https://github.com/user-attachments/assets/ccb4fff0-75fb-4164-8af9-92e9cfe09aba)
+![image](https://github.com/user-attachments/assets/0a29974e-3791-4564-8fc3-54951ab1ea8a)
+
+
